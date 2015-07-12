@@ -1,0 +1,35 @@
+{
+  "name": "react-router-bootstrap",
+  "version": "0.17.2",
+  "homepage": "https://github.com/react-bootstrap/react-router-bootstrap",
+  "author": {
+    "name": "Matt Smith",
+    "email": "mtscout6@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "main": "lib/ReactRouterBootstrap.js",
+  "bugs": {
+    "url": "https://github.com/react-bootstrap/react-router-bootstrap/issues"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "react-bootstrap"
+  ],
+  "dependencies": {
+    "react-bootstrap": ">=0.22.4",
+    "react-router": ">=0.13.1"
+  },
+  "ignore": [
+    "**/.*",
+    "tests",
+    "src",
+    "CONTRIBUTING.md",
+    "karma.conf.js",
+    "package.json",
+    "webpack",
+    "scripts",
+    "webpack.config.babel.js",
+    "webpack.test.config.babel.js"
+  ]
+}
