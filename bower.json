@@ -1,6 +1,6 @@
 {
   "name": "react-router-bootstrap",
-  "version": "0.23.2",
+  "version": "0.24.2",
   "homepage": "https://github.com/react-bootstrap/react-router-bootstrap",
   "author": {
     "name": "Matt Smith",
@@ -17,7 +17,8 @@
     "react-bootstrap"
   ],
   "dependencies": {
-    "react": ">=0.14.9"
+    "react": ">=0.14.0",
+    "react-router-dom": ">=4.0.0"
   },
   "ignore": [
     "**/.*",
